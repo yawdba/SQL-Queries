@@ -194,21 +194,3 @@ select *
 from mkt_sales
 where saledate between to_date('2024-01-01', 'YYYY-MM-DD') 
 and to_date('2024-01-31', 'YYYY-MM-DD');
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
